@@ -3,6 +3,7 @@ setup.cfg
 setup.py
 my_happy/__init__.py
 my_happy/happy_node.py
+my_happy/happy_node2.py
 my_happy.egg-info/PKG-INFO
 my_happy.egg-info/SOURCES.txt
 my_happy.egg-info/dependency_links.txt
