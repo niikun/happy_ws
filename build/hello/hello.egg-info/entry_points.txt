@@ -1,3 +1,0 @@
-[console_scripts]
-hello_node = hello.hello_node:main
-

@@ -1,3 +1,0 @@
-[console_scripts]
-time_publisher = my_time_topic.time_publisher:main
-
