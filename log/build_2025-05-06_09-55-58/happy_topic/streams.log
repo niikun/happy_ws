@@ -1,0 +1,24 @@
+[2.729s] Invoking command in '/home/ubuntu/happy_ws/build/happy_topic': PYTHONPATH=/home/ubuntu/happy_ws/build/happy_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/happy_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/happy_topic/build --no-deps symlink_data
+[3.371s] running develop
+[3.795s] running egg_info
+[3.795s] creating happy_topic.egg-info
+[3.795s] writing happy_topic.egg-info/PKG-INFO
+[3.796s] writing dependency_links to happy_topic.egg-info/dependency_links.txt
+[3.796s] writing entry points to happy_topic.egg-info/entry_points.txt
+[3.797s] writing requirements to happy_topic.egg-info/requires.txt
+[3.797s] writing top-level names to happy_topic.egg-info/top_level.txt
+[3.798s] writing manifest file 'happy_topic.egg-info/SOURCES.txt'
+[3.801s] reading manifest file 'happy_topic.egg-info/SOURCES.txt'
+[3.801s] writing manifest file 'happy_topic.egg-info/SOURCES.txt'
+[3.806s] running build_ext
+[3.806s] Creating /home/ubuntu/happy_ws/install/happy_topic/lib/python3.10/site-packages/happy-topic.egg-link (link to .)
+[3.808s] Installing happy_publisher_node script to /home/ubuntu/happy_ws/install/happy_topic/lib/happy_topic
+[3.808s] 
+[3.809s] Installed /home/ubuntu/happy_ws/build/happy_topic
+[3.809s] running symlink_data
+[3.809s] creating /home/ubuntu/happy_ws/install/happy_topic/share/ament_index
+[3.809s] creating /home/ubuntu/happy_ws/install/happy_topic/share/ament_index/resource_index
+[3.810s] creating /home/ubuntu/happy_ws/install/happy_topic/share/ament_index/resource_index/packages
+[3.811s] symbolically linking /home/ubuntu/happy_ws/build/happy_topic/resource/happy_topic -> /home/ubuntu/happy_ws/install/happy_topic/share/ament_index/resource_index/packages
+[3.811s] symbolically linking /home/ubuntu/happy_ws/build/happy_topic/package.xml -> /home/ubuntu/happy_ws/install/happy_topic/share/happy_topic
+[3.872s] Invoked command in '/home/ubuntu/happy_ws/build/happy_topic' returned '0': PYTHONPATH=/home/ubuntu/happy_ws/build/happy_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/happy_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/happy_topic/build --no-deps symlink_data

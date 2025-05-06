@@ -1,0 +1,9 @@
+source;share/happy_topic/hook/pythonpath.ps1
+source;share/happy_topic/hook/pythonpath.dsv
+source;share/happy_topic/hook/pythonpath.sh
+source;share/happy_topic/hook/ament_prefix_path.ps1
+source;share/happy_topic/hook/ament_prefix_path.dsv
+source;share/happy_topic/hook/ament_prefix_path.sh
+source;../../build/happy_topic/share/happy_topic/hook/pythonpath_develop.ps1
+source;../../build/happy_topic/share/happy_topic/hook/pythonpath_develop.dsv
+source;../../build/happy_topic/share/happy_topic/hook/pythonpath_develop.sh

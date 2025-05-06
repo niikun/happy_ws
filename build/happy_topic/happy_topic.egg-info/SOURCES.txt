@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+happy_topic/__init__.py
+happy_topic/happy_publisher_node.py
+happy_topic.egg-info/PKG-INFO
+happy_topic.egg-info/SOURCES.txt
+happy_topic.egg-info/dependency_links.txt
+happy_topic.egg-info/entry_points.txt
+happy_topic.egg-info/requires.txt
+happy_topic.egg-info/top_level.txt
+happy_topic.egg-info/zip-safe
+resource/happy_topic

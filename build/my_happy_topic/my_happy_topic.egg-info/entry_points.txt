@@ -1,0 +1,3 @@
+[console_scripts]
+happy_publisher_node = my_happy_topic.happy_publisher_node:main
+
