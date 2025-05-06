@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+my_time_topic/__init__.py
+my_time_topic/time_publisher.py
+my_time_topic.egg-info/PKG-INFO
+my_time_topic.egg-info/SOURCES.txt
+my_time_topic.egg-info/dependency_links.txt
+my_time_topic.egg-info/entry_points.txt
+my_time_topic.egg-info/requires.txt
+my_time_topic.egg-info/top_level.txt
+my_time_topic.egg-info/zip-safe
+resource/my_time_topic
