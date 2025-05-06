@@ -1,0 +1,18 @@
+[3.409s] Invoking command in '/home/ubuntu/happy_ws/build/my_happy': PYTHONPATH=/home/ubuntu/happy_ws/build/my_happy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/my_happy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/my_happy/build --no-deps symlink_data
+[4.047s] running develop
+[4.512s] running egg_info
+[4.512s] writing my_happy.egg-info/PKG-INFO
+[4.513s] writing dependency_links to my_happy.egg-info/dependency_links.txt
+[4.513s] writing entry points to my_happy.egg-info/entry_points.txt
+[4.514s] writing requirements to my_happy.egg-info/requires.txt
+[4.514s] writing top-level names to my_happy.egg-info/top_level.txt
+[4.517s] reading manifest file 'my_happy.egg-info/SOURCES.txt'
+[4.519s] writing manifest file 'my_happy.egg-info/SOURCES.txt'
+[4.525s] running build_ext
+[4.525s] Creating /home/ubuntu/happy_ws/install/my_happy/lib/python3.10/site-packages/my-happy.egg-link (link to .)
+[4.526s] Installing happy_node script to /home/ubuntu/happy_ws/install/my_happy/lib/my_happy
+[4.527s] Installing happy_node2 script to /home/ubuntu/happy_ws/install/my_happy/lib/my_happy
+[4.528s] 
+[4.528s] Installed /home/ubuntu/happy_ws/build/my_happy
+[4.528s] running symlink_data
+[4.605s] Invoked command in '/home/ubuntu/happy_ws/build/my_happy' returned '0': PYTHONPATH=/home/ubuntu/happy_ws/build/my_happy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/my_happy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/my_happy/build --no-deps symlink_data
