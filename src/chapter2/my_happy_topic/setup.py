@@ -15,6 +15,7 @@ setup(
     zip_safe=True,
     maintainer='ubuntu',
     maintainer_email='niikun0209@gmail.com',
+<<<<<<< HEAD
     description='A happy topic package',
     license='Apache License 2.0',
     tests_require=['pytest'],
@@ -22,6 +23,14 @@ setup(
         'console_scripts': [
             'happy_publisher_node = my_happy_topic.happy_publisher_node:main',
             'happy_subscriber_node = my_happy_topic.happy_subscriber_node:main'
+=======
+    description='TODO: Package description',
+    license='TODO: License declaration',
+    tests_require=['pytest'],
+    entry_points={
+        'console_scripts': [
+            'happy_publisher_node = my_happy_topic.happy_publisher_node:main'
+>>>>>>> fcfec66be4c1581356112cad387995a6c2ad1394
         ],
     },
 )

@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing my_happy_topic.egg-info/PKG-INFO
+writing dependency_links to my_happy_topic.egg-info/dependency_links.txt
+writing entry points to my_happy_topic.egg-info/entry_points.txt
+writing requirements to my_happy_topic.egg-info/requires.txt
+writing top-level names to my_happy_topic.egg-info/top_level.txt
+reading manifest file 'my_happy_topic.egg-info/SOURCES.txt'
+writing manifest file 'my_happy_topic.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/happy_ws/install/my_happy_topic/lib/python3.10/site-packages/my-happy-topic.egg-link (link to .)
+Installing happy_publisher_node script to /home/ubuntu/happy_ws/install/my_happy_topic/lib/my_happy_topic
+Installing happy_subscriber_node script to /home/ubuntu/happy_ws/install/my_happy_topic/lib/my_happy_topic
+
+Installed /home/ubuntu/happy_ws/build/my_happy_topic
+running symlink_data

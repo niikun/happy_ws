@@ -1,0 +1,18 @@
+[3.206s] Invoking command in '/home/ubuntu/happy_ws/build/my_happy_topic': PYTHONPATH=/home/ubuntu/happy_ws/build/my_happy_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/my_happy_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/my_happy_topic/build --no-deps symlink_data
+[3.886s] running develop
+[4.347s] running egg_info
+[4.348s] writing my_happy_topic.egg-info/PKG-INFO
+[4.348s] writing dependency_links to my_happy_topic.egg-info/dependency_links.txt
+[4.348s] writing entry points to my_happy_topic.egg-info/entry_points.txt
+[4.349s] writing requirements to my_happy_topic.egg-info/requires.txt
+[4.349s] writing top-level names to my_happy_topic.egg-info/top_level.txt
+[4.352s] reading manifest file 'my_happy_topic.egg-info/SOURCES.txt'
+[4.353s] writing manifest file 'my_happy_topic.egg-info/SOURCES.txt'
+[4.358s] running build_ext
+[4.359s] Creating /home/ubuntu/happy_ws/install/my_happy_topic/lib/python3.10/site-packages/my-happy-topic.egg-link (link to .)
+[4.360s] Installing happy_publisher_node script to /home/ubuntu/happy_ws/install/my_happy_topic/lib/my_happy_topic
+[4.360s] Installing happy_subscriber_node script to /home/ubuntu/happy_ws/install/my_happy_topic/lib/my_happy_topic
+[4.361s] 
+[4.361s] Installed /home/ubuntu/happy_ws/build/my_happy_topic
+[4.361s] running symlink_data
+[4.449s] Invoked command in '/home/ubuntu/happy_ws/build/my_happy_topic' returned '0': PYTHONPATH=/home/ubuntu/happy_ws/build/my_happy_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/my_happy_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/my_happy_topic/build --no-deps symlink_data

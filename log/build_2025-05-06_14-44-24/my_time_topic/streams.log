@@ -1,0 +1,17 @@
+[3.152s] Invoking command in '/home/ubuntu/happy_ws/build/my_time_topic': PYTHONPATH=/home/ubuntu/happy_ws/build/my_time_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/my_time_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/my_time_topic/build --no-deps symlink_data
+[3.823s] running develop
+[4.288s] running egg_info
+[4.289s] writing my_time_topic.egg-info/PKG-INFO
+[4.289s] writing dependency_links to my_time_topic.egg-info/dependency_links.txt
+[4.290s] writing entry points to my_time_topic.egg-info/entry_points.txt
+[4.290s] writing requirements to my_time_topic.egg-info/requires.txt
+[4.290s] writing top-level names to my_time_topic.egg-info/top_level.txt
+[4.293s] reading manifest file 'my_time_topic.egg-info/SOURCES.txt'
+[4.294s] writing manifest file 'my_time_topic.egg-info/SOURCES.txt'
+[4.298s] running build_ext
+[4.298s] Creating /home/ubuntu/happy_ws/install/my_time_topic/lib/python3.10/site-packages/my-time-topic.egg-link (link to .)
+[4.300s] Installing time_publisher script to /home/ubuntu/happy_ws/install/my_time_topic/lib/my_time_topic
+[4.300s] 
+[4.300s] Installed /home/ubuntu/happy_ws/build/my_time_topic
+[4.301s] running symlink_data
+[4.351s] Invoked command in '/home/ubuntu/happy_ws/build/my_time_topic' returned '0': PYTHONPATH=/home/ubuntu/happy_ws/build/my_time_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/my_time_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/my_time_topic/build --no-deps symlink_data

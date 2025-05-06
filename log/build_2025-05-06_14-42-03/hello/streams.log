@@ -1,0 +1,17 @@
+[3.298s] Invoking command in '/home/ubuntu/happy_ws/build/hello': PYTHONPATH=/home/ubuntu/happy_ws/build/hello/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/hello/build --no-deps symlink_data
+[3.908s] running develop
+[4.365s] running egg_info
+[4.365s] writing hello.egg-info/PKG-INFO
+[4.366s] writing dependency_links to hello.egg-info/dependency_links.txt
+[4.366s] writing entry points to hello.egg-info/entry_points.txt
+[4.366s] writing requirements to hello.egg-info/requires.txt
+[4.366s] writing top-level names to hello.egg-info/top_level.txt
+[4.370s] reading manifest file 'hello.egg-info/SOURCES.txt'
+[4.371s] writing manifest file 'hello.egg-info/SOURCES.txt'
+[4.377s] running build_ext
+[4.377s] Creating /home/ubuntu/happy_ws/install/hello/lib/python3.10/site-packages/hello.egg-link (link to .)
+[4.378s] Installing hello_node script to /home/ubuntu/happy_ws/install/hello/lib/hello
+[4.379s] 
+[4.379s] Installed /home/ubuntu/happy_ws/build/hello
+[4.379s] running symlink_data
+[4.444s] Invoked command in '/home/ubuntu/happy_ws/build/hello' returned '0': PYTHONPATH=/home/ubuntu/happy_ws/build/hello/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/happy_ws/install/hello/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/happy_ws/build/hello/build --no-deps symlink_data
