@@ -14,9 +14,16 @@ class FizzBuzzNode(Node):
     def callback(self,sub_msg):
         pub_msg = String()
         self.get_logger().info(f'サブクライブ{sub_msg.data}')
-        # publish
-        # if sub_msg % 3 == 0 and  sub_msg % 5 == 0:
-        #     self.get_logger().info('') 
+        if sub_msg.data % 3 == 0 and  sub_msg.data % 5 == 0:
+            pub_msg.data = f'パブリッシュ: fizz buzz'
+        elif sub_msg.data %5 == 0:
+            pub_msg.data = f'パブリッシュ: fizz'
+        elif sub_msg.data %3 == 0:
+            pub_msg.data = f'パブリッシュ: buzz'
+        else:
+            pub_msg.data = f'パブリッシュ: {sub_msg.data}'
+        self.pub.publish(pub_msg)
+        self.get_logger().info(pub_msg.data)
 
 def main():
     rclpy.init()
