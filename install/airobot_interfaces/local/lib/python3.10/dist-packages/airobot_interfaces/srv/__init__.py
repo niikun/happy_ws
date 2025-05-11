@@ -1,0 +1,1 @@
+/home/ubuntu/happy_ws/build/airobot_interfaces/rosidl_generator_py/airobot_interfaces/srv/__init__.py

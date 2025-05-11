@@ -1,0 +1,1 @@
+/home/ubuntu/happy_ws/build/airobot_interfaces/rosidl_cmake/srv/StringCommand_Request.msg

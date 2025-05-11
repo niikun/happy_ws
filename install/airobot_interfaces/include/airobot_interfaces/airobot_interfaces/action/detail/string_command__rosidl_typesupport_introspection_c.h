@@ -1,0 +1,1 @@
+/home/ubuntu/happy_ws/build/airobot_interfaces/rosidl_typesupport_introspection_c/airobot_interfaces/action/detail/string_command__rosidl_typesupport_introspection_c.h

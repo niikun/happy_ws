@@ -1,0 +1,1 @@
+/home/ubuntu/happy_ws/build/airobot_interfaces/rosidl_generator_c/airobot_interfaces/srv/detail/string_command__type_support.h

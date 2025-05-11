@@ -28,7 +28,7 @@ def main(arg=None):
     try:
         rclpy.spin(node)
     except KeyboardInterrupt:
-        print('CTRL + C が押されました')
+        print(' CTRL + C が押されました')
     node.destroy_node()
     rclpy.try_shutdown()
 

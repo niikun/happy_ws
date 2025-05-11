@@ -1,0 +1,1 @@
+/home/ubuntu/happy_ws/build/airobot_interfaces/rosidl_generator_py/airobot_interfaces/action/_string_command.py
