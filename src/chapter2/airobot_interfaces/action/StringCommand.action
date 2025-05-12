@@ -1,5 +1,8 @@
+# Goal
 string command
 ---
+# Result
 string answer
 ---
-string process
+# Feedback
+int32 progress
