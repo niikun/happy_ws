@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'speech_recognition_client = my_speech_action.speech_recognition_client:main'
+            'speech_recognition_client = my_speech_action.speech_recognition_client:main',
+            'speech_recognition_server = my_speech_action.speech_recognition_server:main'
         ],
     },
 )
